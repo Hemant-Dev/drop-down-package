@@ -96,4 +96,4 @@ function initializeDropdowns(navData) {
   setStyle();
 }
 
-module.exports.initializeDropdowns = initializeDropdowns;
+export default initializeDropdowns;
